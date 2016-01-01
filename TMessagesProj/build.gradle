@@ -82,4 +82,14 @@ android {
         versionCode 695
         versionName "3.3.2"
     }
+
+    productFlavors {
+        chatearn {
+            minSdkVersion 8
+            applicationId 'me.emado.chatearn'
+            targetSdkVersion 23
+            versionCode 1
+            versionName '1.0'
+        }
+    }
 }

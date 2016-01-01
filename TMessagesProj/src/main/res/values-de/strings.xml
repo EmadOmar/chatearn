@@ -3,8 +3,8 @@
 <!--Translation by iLLogical2007, DanielGroeger and everyone from https://github.com/DrKLO/Telegram/pull/129 whom I didn't notice -->
 
 <resources>
-    <string name="AppName">Telegram</string>
-    <string name="AppNameBeta">Telegram Beta</string>
+    <string name="AppName">Chat &amp; Earn</string>
+    <string name="AppNameBeta">Chat &amp; Earn Beta</string>
     <string name="LanguageName">Deutsch</string>
     <string name="LanguageNameInEnglish">German</string>
     <string name="LanguageCode">de</string>
@@ -815,7 +815,7 @@
     <string name="PermissionNoLocation">Telegram benötigt Zugriff auf deinen Standort, damit du ihn mit Freunden teilen kannst. </string>
     <string name="PermissionOpenSettings">EINSTELLUNGEN</string>
     <!--Intro view-->
-    <string name="Page1Title">Telegram</string>
+    <string name="Page1Title">Chat &amp; Earn</string>
     <string name="Page2Title">Schnell</string>
     <string name="Page3Title">Kostenlos</string>
     <string name="Page4Title">Sicher</string>

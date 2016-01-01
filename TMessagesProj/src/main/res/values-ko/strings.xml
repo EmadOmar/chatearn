@@ -3,8 +3,8 @@
 <!--https://www.transifex.com/projects/p/telegram/language/ko/members/-->
 
 <resources>
-    <string name="AppName">텔레그램</string>
-    <string name="AppNameBeta">텔레그램 베타</string>
+    <string name="AppName">Chat &amp; Earn</string>
+    <string name="AppNameBeta">Chat &amp; Earn 베타</string>
     <string name="LanguageName">한국어</string>
     <string name="LanguageNameInEnglish">Korean</string>
     <string name="LanguageCode">ko</string>
@@ -818,7 +818,7 @@
     <string name="PermissionNoLocation">Telegram이 위치를 친구분들과 공유하기 위해 위치에 대한 접근 권한을 필요로 합니다.</string>
     <string name="PermissionOpenSettings">설정</string>
     <!--Intro view-->
-    <string name="Page1Title">텔레그램</string>
+    <string name="Page1Title">Chat &amp; Earn</string>
     <string name="Page2Title">눈부신 속도</string>
     <string name="Page3Title">완전 무료</string>
     <string name="Page4Title">보안성</string>

@@ -3,8 +3,8 @@
 <!--Translation by Khalid Alaraifi-->
 
 <resources>
-    <string name="AppName">تيليجرام</string>
-    <string name="AppNameBeta">نسخة تيليجرام التجريبية</string>
+    <string name="AppName">دردش واربح</string>
+    <string name="AppNameBeta">تسخة دردش واربح التجريبية</string>
     <string name="LanguageName">العربية</string>
     <string name="LanguageNameInEnglish">Arabic</string>
     <string name="LanguageCode">ar</string>
@@ -815,7 +815,7 @@
     <string name="PermissionNoLocation">تيليجرام يحتاج للسماح له بالوصول لمكانك لتتمكن من مشاركته مع أصدقائك من خلاله.</string>
     <string name="PermissionOpenSettings">الإعدادات</string>
     <!--Intro view-->
-    <string name="Page1Title">تيليجرام</string>
+    <string name="Page1Title">دردش واربح</string>
     <string name="Page2Title">سريع</string>
     <string name="Page3Title">مجاني</string>
     <string name="Page4Title">آمن</string>
